@@ -1,0 +1,8 @@
+{
+  "name": "EduTest Pro - Smart CBT System",
+  "description": "A comprehensive Computer Based Test application with advanced proctoring, admin management, and multi-modal question support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
